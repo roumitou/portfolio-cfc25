@@ -14,8 +14,12 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      I’m a self-learner figuring things out as I go, no filters, no buzzwords,
+      no HR-friendly corporate speak. This is where I jot down what’s real, raw,
+      and sometimes messy—my thoughts on learning, life, work, and everything in
+      between. No polished pitches or success stories here, just the honest ups
+      and downs.If you’re here for something genuine and unfiltered, you’re in
+      the right place.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
