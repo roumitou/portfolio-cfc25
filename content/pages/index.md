@@ -16,11 +16,11 @@ sections:
     title: Hey there
     subtitle: >-
       I’m a self-learner figuring things out as I go, no filters, no buzzwords,
-      no HR-friendly corporate speak. This is where I jot down what’s real, raw,
-      and sometimes messy—my thoughts on learning, life, work, and everything in
-      between. No polished pitches or success stories here, just the honest ups
-      and downs.If you’re here for something genuine and unfiltered, you’re in
-      the right place.
+      no HR-friendly corporate rubbish. This is where I jot down what’s real,
+      raw, and sometimes messy—my thoughts on learning, life, work, and
+      everything in between. No polished pitches or success stories here, just
+      the honest ups and downs.If you’re here for something genuine and
+      unfiltered, you’re in the right place.
     styles:
       self:
         height: auto
