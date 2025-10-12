@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-b
+    colors: colors-a
     backgroundSize: full
     title: >-
       I’m a self-learner figuring things out as I go, no filters, no buzzwords,
