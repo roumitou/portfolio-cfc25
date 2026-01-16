@@ -2,13 +2,6 @@
 type: PageLayout
 title: Home
 colors: colors-d
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
-  backgroundSize: auto
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 100
 sections:
   - elementId: ''
     colors: colors-a
