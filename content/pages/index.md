@@ -32,7 +32,7 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
-  - colors: colors-e
+  - colors: colors-d
     type: FeaturedProjectsSection
     elementId: ''
     actions:
